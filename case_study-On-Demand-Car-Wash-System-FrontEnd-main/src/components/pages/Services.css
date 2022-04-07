@@ -1,0 +1,59 @@
+
+
+@media(max-width: 1400px){
+    .titleContent{
+        margin-left: 0px;
+    }
+
+  
+
+    
+
+    .orderRow2,  .orderRow3{
+        padding-left: 20px;
+    }
+
+    .orderParent{
+        position: relative;
+        width: 100%;
+    }
+
+    .priceingParent{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .workedBrands{
+        margin-top: 60px;
+    }
+
+    .priceDescription{
+        width: 500px;
+    }
+
+    .priceingTitle{
+        width:100%
+    }
+
+    .c1{
+        margin-top: 35px;
+    }
+
+   
+    
+}
+
+
+    
+   
+
+ 
+
+    
+
+
+
+
+
+
+
